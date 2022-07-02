@@ -4,7 +4,7 @@ _A react app used to add your favourite meals in your cart, increase their amoun
 
 ## Project URL
 
-[Order your favourite meal 🍕](https://f00d-0rder-app.netlify.app/)
+[Order your favourite meal 🍕](https://you-order-food.netlify.app/)
 
 ## Getting Started with Create React App
 
